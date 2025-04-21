@@ -1,0 +1,3 @@
+[submodule "project/Devops-Library1"]
+	path = project/Devops-Library1
+	url = https://github.com/Ansh240204/Devops-Library1.git
